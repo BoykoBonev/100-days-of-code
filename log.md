@@ -17,3 +17,6 @@
 **Link(s) to work**
 1. [Learning Rust repository](https://github.com/BoykoBonev/LearningRust.git)
 
+### Day 1: October 29, Monday, 2018 
+
+**Today's Progress**: Red about heap sort and impelemted it. Should refactor and test it.

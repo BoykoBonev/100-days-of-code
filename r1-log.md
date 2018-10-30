@@ -9,3 +9,6 @@ Red about `Ownership` and `References` from `Programming Rust`. Started implemen
 
 ### R1D1
 Red about modules. Created repository(https://github.com/BoykoBonev/LearningRust.git). Initial commit.
+
+### R1D2
+Red about heap sort and implemented it.
