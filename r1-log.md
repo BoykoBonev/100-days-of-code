@@ -12,3 +12,7 @@ Red about modules. Created repository(https://github.com/BoykoBonev/LearningRust
 
 ### R1D2
 Red about heap sort and implemented it.
+
+### R1D3
+Little bit refactoring. Started with the tests.
+
